@@ -1,0 +1,18 @@
+
+E
+java:S3740("/Provide the parametrized type for this generic.(å˜
+J
+java:S37404"/Provide the parametrized type for this generic.(‘¢ÿÖüÿÿÿÿ
+E
+java:S3740A"/Provide the parametrized type for this generic.(¾¹Íë
+J
+java:S3740O"/Provide the parametrized type for this generic.(¦†¨„úÿÿÿÿ
+R
+java:S3252*"7Use static access with "com.dr.bean.Response" for "ok".(ƒŠ¬ùÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'com.dr.bean.User'.(ãÜ‡Îøÿÿÿÿ
+M
+java:S1128
+"7Remove this unused import 'com.dr.service.UserService'.(Úüø¶
+V
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(Ğôÿ

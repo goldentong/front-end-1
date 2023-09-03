@@ -1,0 +1,24 @@
+
+L
+java:S3740)"/Provide the parametrized type for this generic.(å˜8±¾ğ‹Î0
+L
+java:S37402"/Provide the parametrized type for this generic.(òĞŞ8·Íô‹Î0
+L
+java:S3740<"/Provide the parametrized type for this generic.(ò”òğ8Ê¯¶’Î0
+Q
+java:S3740J"/Provide the parametrized type for this generic.(Ëó°ìúÿÿÿÿ8ĞŠ¨“Î0
+T
+java:S3252+"7Use static access with "com.dr.bean.Response" for "ok".(Šß€œ8Ó¯¶’Î0
+y
+java:S1128"WRemove this unused import 'com.baomidou.mybatisplus.extension.plugins.pagination.Page'.(±Ù¥Éúÿÿÿÿ8½ŠãØÏ0
+I
+java:S1128"-Remove this unused import 'com.dr.bean.Role'.(Ò¢ 88½ŠãØÏ0
+Y
+java:S1128
+"7Remove this unused import 'com.dr.service.RoleService'.(ŒÕÂœÿÿÿÿÿ8¾ŠãØÏ0
+t
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.DeleteMapping'.(­ìÎªşÿÿÿÿ8¾ŠãØÏ0
+s
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8¾ŠãØÏ0
+r
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8¾ŠãØÏ0
